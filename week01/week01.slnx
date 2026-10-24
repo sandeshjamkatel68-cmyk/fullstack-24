@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Greeter/Greeter.csproj" />
+  <Project Path="Hello/Hello.csproj" />
+</Solution>
